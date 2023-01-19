@@ -1,0 +1,32 @@
+# This test file should generate the following output on screen when executed:
+#
+# Expression value is 52
+# The value above should be 52, not 0
+# Script executed.
+# 
+
+STRING  Report_1_message
+Report_1_message="\nScript executed.\n"
+
+NUMBER num1
+NUMBER num2
+NUMBER _result
+  NUMBER 	_Result
+
+num1=3
+num2 	=   12
+
+num2 = num2 +100 - 4* num1*5 # 12 + 100 - 4*3*5 = 52
+_Result = num2 
+
+_result = 0
+
+PRINT "Expression value is "
+PRINT	_Result
+PRINT "\nThe value above should be "
+PRINT 52
+PRINT ", not "
+PRINT _result
+PRINT Report_1_message
+
+

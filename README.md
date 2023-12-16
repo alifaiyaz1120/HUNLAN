@@ -1,4 +1,4 @@
-# HUNLAN Interpreter
+# HUNLAN 
 
 - HUNLAN is an interpreter using C++. It is similar to Python and JavaScript interpreters. This interpreter reads a plain text file, "mycode.hun", and produces the intended output.
   

@@ -1,6 +1,6 @@
 # HUNLAN Interpreter
 
-Welcome to the HUNLAN Interpreter! This repository contains a simple interpreter for the HUNLAN programming language, created in C++. HUNLAN is a primitive but functional language with support for numeric and string variables, mathematical expressions, and basic input/output operations.
+- Welcome to the HUNLAN Interpreter! This repository contains a simple interpreter for the HUNLAN programming language, created in C++. HUNLAN is a primitive but functional language with support for numeric and string variables, mathematical expressions, and basic input/output operations.
 
 
 ## HUNLAN Language Features

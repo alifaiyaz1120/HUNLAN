@@ -42,34 +42,10 @@ g++ -std=c++17 *.cpp -o hunlan
 ## Example Scripts
 For reference, example scripts are provided in the repository with the .hun file extension. These are plain text files that can be opened with any text editor. If needed, you can rename them with a .txt extension.
 
-## Testing 
-The interpreter should compile and run on Linux lab computers using the provided compilation command.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- HUNLAN is an interpreter using C++. It is similar to Python and JavaScript interpreters. This interpreter reads a plain text file, "mycode.hun", and produces the intended output.
-  
-This text file, "mycode.hun", is used by the interpreter to read and interpret code written in HUNLAN.
 
 <img width="500" alt="Screenshot 2023-01-18 at 11 05 27 PM" src="https://user-images.githubusercontent.com/119764873/213352683-95905171-cb84-4dee-ae83-0e4b24f345c6.png">
-
-Using the following commands:
--  g++  -std=c++17  *.cpp  -o hunlan
--  ./hunlan  mycode.hun
 
 Printed on Terminal:
 

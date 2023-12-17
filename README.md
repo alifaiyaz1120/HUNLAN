@@ -45,8 +45,8 @@ For reference, example scripts are provided in the repository with the .hun file
 
 
 
-<img width="500" alt="Screenshot 2023-01-18 at 11 05 27 PM" src="https://user-images.githubusercontent.com/119764873/213352683-95905171-cb84-4dee-ae83-0e4b24f345c6.png">
+<img width="600" alt="Screenshot 2023-01-18 at 11 05 27 PM" src="https://user-images.githubusercontent.com/119764873/213352683-95905171-cb84-4dee-ae83-0e4b24f345c6.png">
 
 Printed on Terminal:
+<img width="700" alt="Screenshot 2023-12-16 at 7 15 49 PM" src="https://github.com/alifaiyaz1120/HUNLAN/assets/119764873/8712f77d-d0e6-4e12-9257-ed8817285bc2">
 
-<img width="500" alt="Screenshot 2023-01-18 at 11 11 47 PM" src="https://user-images.githubusercontent.com/119764873/213353387-67aef8a7-12b1-4d5e-8f33-77c8e8664669.png">
